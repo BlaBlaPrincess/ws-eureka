@@ -52,17 +52,6 @@
             <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-starter-netflix-eureka-server</artifactId>
         </dependency>
-        <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter-web</artifactId>
-        </dependency>
-        <!-- Local -->
-        <!-- https://github.com/BlaBlaPrincess/simple-exh-spring-boot-starter -->
-        <dependency>
-            <groupId>com.github.blablaprincess</groupId>
-            <artifactId>simple-exh-spring-boot-starter</artifactId>
-            <version>0.0.1-SNAPSHOT</version>
-        </dependency>
         <!-- Test -->
         <dependency>
             <groupId>org.springframework.boot</groupId>
